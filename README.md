@@ -10,14 +10,14 @@ Codifier of administrative-territorial units and territories of territorial comm
     "cat": "B",
     "label": "Залізничний",
     "category": "Район міста",
-    "children_count": "0"
+    "children_number": "0"
   },
   {
     "id": "UA01160330010252081",
     "cat": "B",
     "label": "Київський",
     "category": "Район міста",
-    "children_count": "0"
+    "children_number": "0"
   }
   // ...
 ]
